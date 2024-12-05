@@ -133,7 +133,7 @@ This project focuses on analyzing supply chain performance using structured and 
 
 ---
 
-# **Connect & Follow**
+## **Connect & Follow**
 If you found my project insightful, I’d love to connect! I’m passionate about creating impactful data-driven solutions like this one to drive success. Follow me for more updates on my projects and insights. Let’s collaborate and grow together!
 
 ### **Lakshmi Kant**
