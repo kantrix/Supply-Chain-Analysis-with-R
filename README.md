@@ -130,3 +130,17 @@ This project focuses on analyzing supply chain performance using structured and 
 
 4. **Streamline Payment Methods:**  
    - Ensure seamless integration of electronic payment options, as they dominate transaction types.  
+
+---
+
+# **Connect & Follow**
+If you found my project insightful, I’d love to connect! I’m passionate about creating impactful data-driven solutions like this one to drive success. Follow me for more updates on my projects and insights. Let’s collaborate and grow together!
+
+![image.png](attachment:bebe5e0f-49cc-4a78-b988-33daae324666.png)
+
+
+* Linkedin: https://www.linkedin.com/in/kant-ai/
+  
+* Portfolio: https://genrix.netlify.app/
+  
+* GitHub: https://github.com/genrix-ai
