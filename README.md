@@ -12,7 +12,7 @@ This project focuses on analyzing supply chain performance using structured and 
 
 ---
 
-#### **Insights, Key Metrics, and Analysis**
+## **Insights, Key Metrics, and Analysis**
 
 1. **Transaction Types**
    
@@ -106,7 +106,7 @@ This project focuses on analyzing supply chain performance using structured and 
 
 ---
 
-#### **Conclusions**
+## **Conclusions**
 
 - A large proportion of late deliveries and heavy reliance on *Standard Class* shipping indicate inefficiencies in the supply chain.  
 - Certain product categories and customer segments face a higher risk of late deliveries, impacting overall customer satisfaction.  
@@ -114,7 +114,7 @@ This project focuses on analyzing supply chain performance using structured and 
 
 ---
 
-#### **Recommendations**
+## **Recommendations**
 
 1. **Improve Delivery Timeliness:**  
    - Optimize logistics for late-prone categories like *Cleats* and *Men’s Footwear*.  
