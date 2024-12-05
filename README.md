@@ -82,7 +82,7 @@ This project focuses on analyzing supply chain performance using structured and 
 
 10. **Top 10 Customer Cities by Total Profit**
 
-     ![image](https://github.com/user-attachments/assets/cb802607-1ac2-4333-b916-73a8a38f142c)
+     ![image](https://github.com/user-attachments/assets/db0111c3-e805-499e-86c7-7956d6f00bf2)
 
 11. **Top 10 Categories by Profit**
 
