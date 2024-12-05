@@ -136,7 +136,8 @@ This project focuses on analyzing supply chain performance using structured and 
 # **Connect & Follow**
 If you found my project insightful, I’d love to connect! I’m passionate about creating impactful data-driven solutions like this one to drive success. Follow me for more updates on my projects and insights. Let’s collaborate and grow together!
 
-![image.png](attachment:bebe5e0f-49cc-4a78-b988-33daae324666.png)
+### **Lakshmi Kant**
+**Data Scientist | Data Analyst | SEO Analyst**
 
 
 * Linkedin: https://www.linkedin.com/in/kant-ai/
