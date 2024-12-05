@@ -139,7 +139,6 @@ If you found my project insightful, I’d love to connect! I’m passionate abou
 ### **Lakshmi Kant**
 **Data Scientist | Data Analyst | SEO Analyst**
 
---
 
 * Linkedin: https://www.linkedin.com/in/kant-ai/
   
