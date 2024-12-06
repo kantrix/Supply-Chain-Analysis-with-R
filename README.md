@@ -4,7 +4,7 @@
 
 This Supply Chain Analysis project uses R programming to optimize and analyze supply chain operations by leveraging data cleaning, visualization, and exploratory analysis to uncover key insights, such as cost-saving opportunities, demand patterns, and process inefficiencies. The insights derived help businesses streamline their processes and improve decision-making for a more efficient supply chain.
 
-### View Dashboard, Click here: <a href="https://app.powerbi.com/view?r=eyJrIjoiZDJjYTM2MGUtMDg1ZC00NjE4LWJlZjgtZDU3OTNhZmNmMWIwIiwidCI6IjFkMjlkNzM5LTIzY2YtNDMwMS1hNTZlLTU1YzA0ZDg1NGQxOSJ9">Supply-Chain-Analysis-with-PowerBI</a>
+### View Dashboard, Click here: <a href="https://app.powerbi.com/view?r=eyJrIjoiZWUxYmEyNWUtOWU2Yy00MWIzLThlMTEtZGE0NTRkMmQyNzc1IiwidCI6IjFkMjlkNzM5LTIzY2YtNDMwMS1hNTZlLTU1YzA0ZDg1NGQxOSJ9">Supply-Chain-Analysis-with-PowerBI</a>
 
 ---
 
