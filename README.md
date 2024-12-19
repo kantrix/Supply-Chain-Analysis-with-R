@@ -144,5 +144,5 @@ If you found my project insightful, I’d love to connect! I’m passionate abou
 
 * Linkedin: https://www.linkedin.com/in/kant-ai/
   
-* Portfolio: https://genrix.netlify.app/
+* Portfolio: https://kantrixai.netlify.app/
 
