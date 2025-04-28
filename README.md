@@ -1,4 +1,4 @@
-# Supply Chain Analysis with R
+# Supply Chain Analysis with R 
 
 ![image](https://github.com/user-attachments/assets/2e641cbe-368d-4e9b-8fee-b17334dcdcee)
 
@@ -10,7 +10,7 @@ This Supply Chain Analysis project uses R programming to optimize and analyze su
 
 ## **About Dataset**  
 
-This project focuses on analyzing supply chain performance using structured and unstructured datasets from DataCo Global. Insights were derived from key metrics like transaction types, delivery statuses, shipping modes, customer segments, and sales distribution. The analysis provides actionable recommendations for improving operational efficiency and customer satisfaction.
+This project analyzes supply chain performance using structured and unstructured datasets from DataCo Global. Insights were derived from key metrics like transaction types, delivery statuses, shipping modes, customer segments, and sales distribution. The analysis provides actionable recommendations for improving operational efficiency and customer satisfaction.
 
 ---
 
